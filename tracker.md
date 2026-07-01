@@ -25,7 +25,7 @@
 
 - [x] **Day 1** — JDK setup, Java syntax vs your existing language, types, operators, control flow
 - [x] **Day 2** — OOP: classes, interfaces, abstract classes, inheritance, polymorphism
-- [ ] **Day 3** — Collections: `List`, `Map`, `Set`, `Queue` — when to use each
+- [x] **Day 3** — Collections: `List`, `Map`, `Set`, `Queue` — when to use each
 - [ ] **Day 4** — Generics: `<T>`, bounded types, wildcards
 - [ ] **Day 5** — Exceptions: checked vs unchecked, `try-with-resources`, custom exceptions
 - [ ] **Day 6** — String API, `record`, `enum` with methods
