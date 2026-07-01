@@ -45,12 +45,12 @@ class Book extends LibraryItem implements Barrowable {
 
     @Override
     public void borrow() {
-        System.out.println("Borrowing book: " + this.getTitle());
+        System.out.println("Borrowing book: " + this.getTitle() + " by " + this.author);
     }
 
     @Override
     public void returnItem() {
-        System.out.println("Returning book: " + this.getTitle());
+        System.out.println("Returning book: " + this.getTitle() + " by " + this.author);
     }
 }
 
